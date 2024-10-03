@@ -1,0 +1,197 @@
+/* @media (max-width: 1300px) {
+
+
+    header {
+        .animation-icon-main-wrapper {
+            display: none;
+        }
+
+
+        
+    & .header-middle-row {
+        .form-box {
+            max-width: 500px;
+            width: 100%;
+        }
+
+    }
+
+
+
+    .header-bottom-row {
+        .right-side {
+            display: none;
+        }
+    }
+
+
+    }
+
+
+
+
+
+
+
+
+main {
+    .banner-section {
+        .col-9 {
+            .row {
+                .col-5 {
+                    .title {
+                        font-size: 32px;
+                    }
+                }
+
+                .col-7 {
+                    .upper-div-wrapper {
+                        .image-wrapper {
+                            .auto-image-change-slider {
+                                .lower-image-wrapper {
+                                    & img {
+                                        width: 70px !important;
+                                        height: 70px !important;
+                                    }
+
+                                }
+
+                                .slider-nav .slick-current .thumbnail {
+                                    width: 70px;
+                                    height: 70px;
+                                }
+
+                                .slider-nav {
+                                    width: 80%;
+                                    right: -10% !important;
+                                    top: -44px;
+                                }
+
+                                .slider-for img {
+                                    right: -40px;
+                                    top: -30px;
+                                    width: 380px;
+                                    height: 380px;
+                                }
+
+                                .slick-prev::before {
+                                    left: 10px;
+                                }
+
+                                .slick-next::before {
+                                    right: -45px !important;
+                                    position: absolute;
+                                }
+                            }
+
+                        }
+
+
+                        &::before {
+                            left: 0 !important;
+                            width: 350px;
+                            height: 350px;
+                        }
+                    }
+
+                    .upper-div-wrapper {
+                        .offer-badge {
+                            left: 0;
+                        }
+                    }
+                }
+            }
+
+
+        }
+    }
+
+    .new-arival {
+        .container-fluid {
+            .features-main-wrapper {
+                & ul {
+                    & li {
+                        padding: 30px 8px;
+
+                        .contant {
+                            & h3 {
+                                font-size: 14px;
+                            }
+
+                            & span {
+                                font-size: 12px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .trending-product {
+        .container-fluid {
+            .col-3 {
+                .trending-product-main-wrapper {
+                    .nav {
+                        & button {
+                            & img {
+                                margin-right: 22px
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+
+}
+
+.footer-section {
+    .main-wrapper {
+        .upper-head {
+            .main-wrapper {
+                .left-side {
+                    .heading-div {
+                        font-size: 26px;
+                    }
+
+                    & p {
+                        font-size: 16px;
+                    }
+                }
+            }
+        }
+
+        .bottom-main-content {
+            & .row {
+                & .col-3 {
+                    & .main-wrapper-first {
+                        & p {
+                            font-size: 12px;
+                        }
+                    }
+
+                    .main-wrapper-second {
+                        padding-left: 50px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+} */

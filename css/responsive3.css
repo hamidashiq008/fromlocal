@@ -1,0 +1,272 @@
+@media (max-width: 426px) {
+
+header{
+    .header-top-row,
+    .header-middle-row,
+    .header-bottom-row .content-div{
+        display: none !important;
+    }
+}
+
+
+
+main{
+
+
+.banner-section{
+    .col-lg-5{
+        .title{
+            font-size: 30px !important;
+        }
+    }
+
+    .col-lg-9 {
+         .row {
+             .col-lg-7 {
+                 .upper-div-wrapper {
+                    &::before{
+left: -50px !important;
+                    }
+                }
+                .hero__product-item{
+                    width: 296px;
+                }
+                .upper-image-wrapper{
+                    width: 296px !important;
+                }
+            }
+        }
+    }
+}
+
+.section-last-slider{
+    .slick-track{
+        margin: 50px !important;
+    }
+    .img-wrapper{
+        width: 140px !important;
+        padding:0 30px !important;
+        & img{
+            width: 100% !important;
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.new-arival{
+    .nav-tabs{
+        gap: 1rem !important;
+    }
+    .features-main-wrapper {
+       
+        & ul{
+            & li{
+                width: 100% !important;
+                margin: 10px 0;
+            }
+        }
+    }
+
+}
+
+
+
+
+.machines-section{
+    .main-wrapper-image-change{
+        margin: 20px 0;
+    }
+  
+        .nav{
+            gap: 20px;
+        
+    }
+}
+
+    .recently-viewed{
+        .main-wrapper{
+            & nav{
+                margin-top: 20px;
+                .nav{
+                    gap: 20px;
+                }
+            }
+            
+        }
+    }
+
+    .buy-get-free{
+        .col-lg-7{
+            .right-side{
+                margin-top: 3rem;
+                
+            }
+        }
+    }
+
+    .dslr-camera{
+        .col-lg-6{
+            .right-side{
+                margin-top: 3rem;
+            }
+        }
+        .col-lg-3{
+            .main-wrapper{
+
+                .heading{
+margin-top: 10px;
+                }
+                & ul{
+                    padding: 25px !important;
+                }
+            }
+            
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+.upper-image-wrapper{
+    width: 150px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .footer-section {
+        .main-wrapper {
+            .upper-head {
+                .main-wrapper {
+
+
+                    .right-side {
+                        & input {
+                            width: 100%;
+                            margin-top: 10px;
+                        }
+
+                        & button {
+                            width: 100%;
+                            margin-top: 10px;
+                            padding: 13px 28px !important;
+                            font-size: 18px !important;
+                        }
+                    }
+                }
+            }
+
+            .bottom-main-content {
+                padding: 40px 0 !important;
+
+                .row {
+
+                    .heading {
+                        padding: 10px 0;
+                    }
+
+                    & ul {
+                        & li {
+                            padding: 5px 0px;
+                            /* & a{
+                                text-decoration: none;
+                                color: var(--lighgray-5);
+                            } */
+                        }
+
+                    }
+                }
+
+                .main-wrapper-second,
+                .main-wrapper-third,
+                .main-wrapper-forth {
+                    padding-left: 10px !important;
+                }
+            }
+
+            .last-line {
+                padding: 15px 0;
+
+                .main-wrapper {
+                    & h3 {
+                        font-size: 15px;
+                        text-align: center;
+                    }
+
+                    .center-content {
+                        text-align: center;
+                    }
+
+                    .right-side {
+                        text-align: center;
+                    }
+                }
+            }
+        }
+
+    }
+}
